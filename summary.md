@@ -19,7 +19,7 @@ I tested the program with different inputs to check whether the conversions were
 **1. Length Conversion**k
 - Input: 5 km → Expected Output: 3.11 miles
 - Input: 10 miles → Expected Output: 16.09 km
-- ![Length Conversion](length.png)
+- ![Length Conversion](screenshots/length.png)
 
 **2. Weight Conversion**
 - Input: 2 kg → Expected Output: 2000 grams
