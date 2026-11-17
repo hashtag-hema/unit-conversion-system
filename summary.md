@@ -24,22 +24,22 @@ I tested the program with different inputs to check whether the conversions were
 **2. Weight Conversion**
 - Input: 2 kg → Expected Output: 2000 grams
 - Input: 500 grams → Expected Output: 0.50 kg
-- ![Weight Conversion](weight.png)
+- ![Weight Conversion](screenshots/weight.png)
 
 **3. Temperature Conversion**
 - Input: 0°C → Expected Output: 32°F
 - Input: 212°F → Expected Output: 100°C
-- ![Temperature Conversion](temperature.png)
+- ![Temperature Conversion](screenshots/temperature.png)
 
 **4. Time Conversion**
 - Input: 2 hours → Expected Output: 120 minutes
 - Input: 120 minutes → Expected Output: 2 hours
-- ![Time Conversion](time.png)
+- ![Time Conversion](screenshots/time.png)
 
 **5. Invalid Inputs**
 - Input: 7 (menu choice) → Output: Invalid choice message
 - Input: abc (numerical value) → Output: Invalid value message
-- ![Invalid Input](invalid.png)
+- ![Invalid Input](screenshots/invalid.png)
 
 ## 4. Output
 
